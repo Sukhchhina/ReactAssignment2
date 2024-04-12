@@ -1,6 +1,6 @@
 Instruction:
  After cloning project 
- Command to run on local System
+ Command to run on local System(Depend on your System environment)
  yarn start
  npm run-ios
  expo start 
@@ -31,9 +31,9 @@ Ensure following dependencies:
 
 
 Contributors:
-Sukhwinder Singh
-Tanya
-Sanjoly
-Mohammad Taif
-Hasir Patel
+Sukhwinder Singh,
+Tanya,
+Sanjoly,
+Mohammad Taif,
+Hasir Patel,
 Jasdeep Singh
